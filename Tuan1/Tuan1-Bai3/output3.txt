@@ -1,0 +1,3 @@
+Thong tin Nhan vien can kiem tra:
+Ket qua sau khi sap xep:
+      MaNV     Holot     Tennv   Luongnv
